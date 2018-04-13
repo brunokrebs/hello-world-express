@@ -1,0 +1,23 @@
+{
+  "name": "hello-world-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunokrebs/hello-world-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunokrebs/hello-world-express/issues"
+  },
+  "homepage": "https://github.com/brunokrebs/hello-world-express#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
